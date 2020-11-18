@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&family=Open+Sans+Condensed:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.back {
+    background-image: url(./img/bright_light_lines_spirals_9846_1920x1080.jpg);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#welcom {
+    background-color: #aaa0a0a2;
+    height: 425px;
+    width: 480px;
+    align-items: center;
+
+}
+.p1{
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 36px;
+    color: #2b2626d0;
+    
+}
+.p2 {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    margin-top: 25px;
+    width: 300px;
+    font-size: 30px;
+    color: #2b2626d0;
+    margin-left: 90px;
+}
+#start {
+    background-color: #aaa0a000;
+    text-align: center;
+    border: 0;
+    color: #2b2626d0;
+    width: 100%;
+    height: 71px;
+    font-size: 36px;
+    font-family: 'Noto Sans TC', sans-serif;
+    margin-top: 70px;
+}
+
+
+
+#block {
+    height: 425px;
+    width: 480px;
+    align-items: center;
+    display: none;
+    background-color: #aaa0a0a2 ;
+}
+
+#lastname {
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 32px;
+    color: #2b2626d0;
+}
+#firstname {
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 30px;
+    color: #2b2626d0;
+}
+#gender {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 25px;
+    color: #2b2626d0;
+}
+
+#bf {
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    color: #2b2626d0;
+}
+#prof {
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    color: #2b2626d0;
+}
+#end {
+    background-color: #aaa0a000;
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 10%;
+    border: 0;
+    color: #2b2626d0;
+    width: 40%;
+    height: 70px;
+    font-size: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
+    margin-top: 50px;
+}
+#again {
+    background-color: #aaa0a000;
+    text-align: center;
+    margin-left: 5%;
+    border: 0;
+    color: #2b2626d0;
+    width: 40%;
+    height: 70px;
+    font-size: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
+    margin-top: 50px;  
+}
+
+
+
